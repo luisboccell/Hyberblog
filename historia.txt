@@ -1,6 +1,13 @@
+<<<<<<< HEAD
 Esta es la historia de Freddy Vega
 
 Luis Boccell tiene 54 años y nació en Cuba,
 viviendo en todo el mundo
 
 Hoy hablaremos de su vida.
+=======
+esta es
+modificando este archivo
+nuevas lineas insertadas
+nuevos cambios realizados
+>>>>>>> 95eccc7549b1cef86411658c73fcbb48b4483020
